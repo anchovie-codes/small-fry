@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri C:/Users/littl/Documents/KiCad/8.0/footprints/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name keebs)(type KiCad)(uri C:/Users/littl/Documents/KiCad/8.0/footprints/keebs.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri C:/Users/littl/Documents/KiCad/8.0/footprints/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri C:/Users/littl/Documents/KiCad/8.0/footprints/MX_Alps_Hybrid)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri C:/Users/littl/Documents/KiCad/8.0/footprints/random-keyboard-parts.pretty)(options "")(descr ""))
+)
