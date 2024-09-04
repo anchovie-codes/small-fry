@@ -1,6 +1,8 @@
 (sym_lib_table
-  (lib (name keebio)(type Legacy)(uri C:/Users/littl/Documents/KiCad/8.0/footprints/Keebio-Parts.pretty/keebio-components-master/keebio.lib)(options "")(descr ""))
-  (lib (name Bonsai_C)(type Legacy)(uri C:/Users/littl/Documents/KiCad/8.0/footprints/Bonsai-C/C3/Bonsai_C.lib)(options "")(descr ""))
-  (lib (name random-keyboard-parts)(type Legacy)(uri "C:/Users/littl/Documents/KiCad/8.0/footprints/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "C:/Users/littl/Documents/KiCad/8.0/footprints/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (version 7)
+  (lib (name "keebio")(type "Legacy")(uri "C:/Users/littl/Documents/KiCad/8.0/footprints/Keebio-Parts.pretty/keebio-components-master/keebio.lib")(options "")(descr ""))
+  (lib (name "Bonsai_C")(type "Legacy")(uri "C:/Users/littl/Documents/KiCad/8.0/footprints/Bonsai-C/C3/Bonsai_C.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/littl/Documents/KiCad/8.0/footprints/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/littl/Documents/KiCad/8.0/footprints/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "bonsai_pads")(type "KiCad")(uri "${KIPRJMOD}/bonsai_pads.kicad_sym")(options "")(descr ""))
 )
