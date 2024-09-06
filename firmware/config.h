@@ -1,9 +1,9 @@
-// Copyright 2023 Bacon (@callumhauber)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
+#include "config_common.h"
 
-#define USB_VBUS_PIN GP9
+/* This file is empty and unrequired */
 
 /*
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET // Activates the double-tap behavior
