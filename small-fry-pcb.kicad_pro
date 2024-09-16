@@ -489,7 +489,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../design/2024/small-fry/small-fry-pcb.step",
       "svg": "",
       "vrml": ""
     },
