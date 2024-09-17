@@ -1168,12 +1168,6 @@
 		(uuid "071c1853-194a-4a3e-99fd-0274f98224e1")
 	)
 	(junction
-		(at 159.512 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0a4a58ff-52ce-48d6-83ec-64db9586cc3b")
-	)
-	(junction
 		(at 81.788 68.326)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1474,10 +1468,10 @@
 		(uuid "6f7a4605-d56b-44dd-a299-b544deedb340")
 	)
 	(junction
-		(at 125.476 87.63)
+		(at 154.94 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "71989db4-2a0d-403e-9f33-357a402d0f0b")
+		(uuid "70069593-f491-4f58-a620-e6b847e7e76e")
 	)
 	(junction
 		(at 139.7 97.79)
@@ -1532,12 +1526,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "80de781f-6163-4117-8447-77035b716c5c")
-	)
-	(junction
-		(at 157.988 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "82a2d806-ac67-4a40-aa8f-cfe4c1d5c240")
 	)
 	(junction
 		(at 129.032 97.79)
@@ -1618,6 +1606,12 @@
 		(uuid "9a35a0e2-6cf3-4220-b496-6674aad3591b")
 	)
 	(junction
+		(at 170.18 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a091e098-c9d3-43a0-986f-a52fcd733424")
+	)
+	(junction
 		(at 194.056 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1628,12 +1622,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a1b43ff5-66aa-45bd-b230-2088862cd964")
-	)
-	(junction
-		(at 148.844 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a40a59b6-edeb-4897-b12c-a67e81efc153")
 	)
 	(junction
 		(at 81.28 30.734)
@@ -1786,6 +1774,12 @@
 		(uuid "df86a294-8524-4e65-a2ab-cc72dfc0d496")
 	)
 	(junction
+		(at 168.91 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e04e559b-6be9-4cfc-b9ad-4ee292d199bb")
+	)
+	(junction
 		(at 117.348 59.436)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1808,6 +1802,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7c2b136-f207-4163-b061-ebad5b6e5ebc")
+	)
+	(junction
+		(at 136.398 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec749c20-e5fc-43b6-925a-741632994d63")
 	)
 	(junction
 		(at 212.09 87.63)
@@ -1868,6 +1868,98 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ff7fcd88-9771-470d-9796-5f8f0856f28d")
+	)
+	(no_connect
+		(at 55.88 52.07)
+		(uuid "0ba5ee4f-7b15-49cb-900e-8f1feb74bba5")
+	)
+	(no_connect
+		(at 38.1 80.01)
+		(uuid "11be375a-1ea2-422a-9852-fb156a3a7adb")
+	)
+	(no_connect
+		(at 35.56 80.01)
+		(uuid "1dd229d3-1bb4-453c-8664-538d56272d18")
+	)
+	(no_connect
+		(at 55.88 36.83)
+		(uuid "22ee8116-21df-449f-8e54-dda50c4589ee")
+	)
+	(no_connect
+		(at 55.88 69.85)
+		(uuid "3252d07a-74fa-48fa-92b4-9b55c3fcccac")
+	)
+	(no_connect
+		(at 55.88 29.21)
+		(uuid "3cf945f8-8d0b-46e9-956a-83deeebf0aaa")
+	)
+	(no_connect
+		(at 55.88 41.91)
+		(uuid "495e4302-0734-4c71-a714-2eb4bc9dc240")
+	)
+	(no_connect
+		(at 20.32 31.75)
+		(uuid "49ab5b6d-c697-46f7-adf4-36e57c7a14e9")
+	)
+	(no_connect
+		(at 55.88 26.67)
+		(uuid "4a585c5c-d235-4b51-bada-c50426928136")
+	)
+	(no_connect
+		(at 20.32 69.85)
+		(uuid "50a92b6b-561b-40d5-a9f2-1cfef6161c57")
+	)
+	(no_connect
+		(at 20.32 57.15)
+		(uuid "52502dc0-506e-4b3c-9b24-9d0c243885f9")
+	)
+	(no_connect
+		(at 55.88 34.29)
+		(uuid "537a2e42-93f2-407b-bd9e-032be6aaf178")
+	)
+	(no_connect
+		(at 55.88 54.61)
+		(uuid "553f96e0-2530-4613-952d-41c62ea9f372")
+	)
+	(no_connect
+		(at 55.88 49.53)
+		(uuid "5d22a34b-383a-438d-9a0a-7dd4702c3e87")
+	)
+	(no_connect
+		(at 40.64 80.01)
+		(uuid "68e1b37a-1ae9-4fd7-88d1-84501c61c313")
+	)
+	(no_connect
+		(at 55.88 57.15)
+		(uuid "84ec6da7-b655-46de-859f-618dba086317")
+	)
+	(no_connect
+		(at 55.88 44.45)
+		(uuid "a76e92be-6e9e-4ec9-acd5-198b3574ab6e")
+	)
+	(no_connect
+		(at 20.32 44.45)
+		(uuid "b652056d-38b3-4a1c-96be-e11d2f9d91d9")
+	)
+	(no_connect
+		(at 20.32 74.93)
+		(uuid "d96c8eb3-d8cf-4bd7-ae5a-b0dffcd7b374")
+	)
+	(no_connect
+		(at 55.88 46.99)
+		(uuid "df2636dc-616f-4755-b2ab-8b552c355c1d")
+	)
+	(no_connect
+		(at 55.88 31.75)
+		(uuid "e6a25bc0-9bbb-4a59-ac86-4b5ec3a227fa")
+	)
+	(no_connect
+		(at 55.88 39.37)
+		(uuid "f41a0913-3171-47a9-ae4e-5b049aa8b5e3")
+	)
+	(no_connect
+		(at 55.88 74.93)
+		(uuid "fca30a45-aea1-4075-8a1a-2e7f47c7680f")
 	)
 	(wire
 		(pts
@@ -2061,6 +2153,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 118.11) (xy 181.864 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c0b2745-0449-4a1c-bc90-53f58048c58d")
+	)
+	(wire
+		(pts
 			(xy 160.528 35.814) (xy 162.814 35.814)
 		)
 		(stroke
@@ -2121,13 +2223,13 @@
 	)
 	(wire
 		(pts
-			(xy 127 87.63) (xy 127 107.95)
+			(xy 154.94 118.11) (xy 170.18 118.11)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "13dfc18a-563d-4d46-8ab9-e5b8a05e447f")
+		(uuid "13153366-b943-454a-a897-a9ab3a93392b")
 	)
 	(wire
 		(pts
@@ -2181,16 +2283,6 @@
 	)
 	(wire
 		(pts
-			(xy 159.512 118.11) (xy 181.864 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c8f11ae-54f8-4345-b83b-424f44a1145d")
-	)
-	(wire
-		(pts
 			(xy 198.374 116.84) (xy 200.66 116.84)
 		)
 		(stroke
@@ -2208,6 +2300,16 @@
 			(type default)
 		)
 		(uuid "1e14e253-2e22-4956-ae9f-ca4aa9619a23")
+	)
+	(wire
+		(pts
+			(xy 136.398 107.95) (xy 127 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fc3dfc8-e022-4421-8a09-306a6fdd6418")
 	)
 	(wire
 		(pts
@@ -2258,16 +2360,6 @@
 			(type default)
 		)
 		(uuid "21f1bb1c-1aeb-40bf-bb9c-d4ad18f92bf3")
-	)
-	(wire
-		(pts
-			(xy 125.476 87.63) (xy 127 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "24668008-b7e7-4d3f-9758-a3fbeba11e6f")
 	)
 	(wire
 		(pts
@@ -2971,7 +3063,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.844 113.03) (xy 151.13 113.03)
+			(xy 154.94 113.03) (xy 158.75 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3018,6 +3110,16 @@
 			(type default)
 		)
 		(uuid "69178f65-d499-4fe2-99b0-e0b798a53e16")
+	)
+	(wire
+		(pts
+			(xy 168.91 107.95) (xy 168.91 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "698bf14f-01b9-49e5-b495-8023ddd97b7f")
 	)
 	(wire
 		(pts
@@ -3301,7 +3403,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 107.95) (xy 179.832 107.95)
+			(xy 179.07 107.95) (xy 179.832 107.95)
 		)
 		(stroke
 			(width 0)
@@ -3371,7 +3473,7 @@
 	)
 	(wire
 		(pts
-			(xy 159.512 113.03) (xy 162.56 113.03)
+			(xy 170.18 113.03) (xy 173.99 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3411,7 +3513,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.634 118.11) (xy 148.844 118.11)
+			(xy 119.634 118.11) (xy 154.94 118.11)
 		)
 		(stroke
 			(width 0)
@@ -4131,6 +4233,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 107.95) (xy 168.91 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce91f87b-77b5-426d-8f12-2c5d9de0b1b7")
+	)
+	(wire
+		(pts
 			(xy 95.758 59.436) (xy 106.68 59.436)
 		)
 		(stroke
@@ -4158,16 +4270,6 @@
 			(type default)
 		)
 		(uuid "d06cb89d-4b36-4083-9953-c134bb4a1eee")
-	)
-	(wire
-		(pts
-			(xy 157.988 107.95) (xy 157.988 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d098e5c4-3ebc-4aad-bc1a-18fd06e858b1")
 	)
 	(wire
 		(pts
@@ -4208,6 +4310,16 @@
 			(type default)
 		)
 		(uuid "d64203af-718c-4770-a2a7-d2c9acb9208d")
+	)
+	(wire
+		(pts
+			(xy 136.398 87.63) (xy 136.398 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d647f3f8-1c57-41d7-9f98-76de2e8aed84")
 	)
 	(wire
 		(pts
@@ -4611,16 +4723,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.844 118.11) (xy 159.512 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6a20fb6-2b0a-4a15-96fe-52a82ebb987f")
-	)
-	(wire
-		(pts
 			(xy 189.992 68.326) (xy 189.992 87.63)
 		)
 		(stroke
@@ -4628,16 +4730,6 @@
 			(type default)
 		)
 		(uuid "f8501248-dc6c-404d-993f-7a3fbdfca2cc")
-	)
-	(wire
-		(pts
-			(xy 156.21 107.95) (xy 157.988 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8805474-f2fd-44dd-a339-cf842891a91d")
 	)
 	(wire
 		(pts
@@ -5554,7 +5646,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED"
 			(at 61.595 32.639 0)
 			(effects
 				(font
@@ -5690,7 +5782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
 			(at 72.517 32.639 0)
 			(effects
 				(font
@@ -7458,7 +7550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
 			(at 212.979 32.639 0)
 			(effects
 				(font
@@ -7594,7 +7686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED"
 			(at 61.849 51.181 0)
 			(effects
 				(font
@@ -7730,7 +7822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
 			(at 72.771 51.181 0)
 			(effects
 				(font
@@ -9498,7 +9590,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
 			(at 213.233 51.181 0)
 			(effects
 				(font
@@ -9634,7 +9726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED"
 			(at 62.103 70.231 0)
 			(effects
 				(font
@@ -9770,7 +9862,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
 			(at 73.025 70.231 0)
 			(effects
 				(font
@@ -11402,7 +11494,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
 			(at 202.819 70.231 0)
 			(effects
 				(font
@@ -11538,7 +11630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED"
 			(at 62.611 89.535 0)
 			(effects
 				(font
@@ -11674,7 +11766,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
 			(at 73.533 89.535 0)
 			(effects
 				(font
@@ -13170,7 +13262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
 			(at 192.405 89.535 0)
 			(effects
 				(font
@@ -13306,7 +13398,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED"
 			(at 63.627 108.077 0)
 			(effects
 				(font
@@ -13442,7 +13534,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.75U-NoLED"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
 			(at 74.549 108.077 0)
 			(effects
 				(font
@@ -13963,7 +14055,7 @@
 	)
 	(symbol
 		(lib_id "MX_Alps_Hybrid:MX-NoLED")
-		(at 152.4 109.22 0)
+		(at 160.02 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13971,7 +14063,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000066d41aca")
 		(property "Reference" "MX63"
-			(at 153.2128 103.5558 0)
+			(at 160.8328 103.5558 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -13979,7 +14071,7 @@
 			)
 		)
 		(property "Value" "MX-NoLED"
-			(at 153.2128 105.4354 0)
+			(at 160.8328 105.4354 0)
 			(effects
 				(font
 					(size 0.508 0.508)
@@ -13987,7 +14079,7 @@
 			)
 		)
 		(property "Footprint" "MX_Alps_Hybrid:MX-2.75U-ReversedStabilizers-NoLED"
-			(at 136.525 109.855 0)
+			(at 144.145 109.855 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -13996,7 +14088,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 136.525 109.855 0)
+			(at 144.145 109.855 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -14005,7 +14097,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.4 109.22 0)
+			(at 160.02 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14030,7 +14122,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 148.844 115.57 90)
+		(at 154.94 115.57 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14038,7 +14130,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000066d41ad1")
 		(property "Reference" "D63"
-			(at 150.5712 114.4016 90)
+			(at 156.6672 114.4016 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14047,7 +14139,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 150.5712 116.713 90)
+			(at 156.6672 116.713 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14056,7 +14148,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 148.844 115.57 90)
+			(at 154.94 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14065,7 +14157,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.844 115.57 90)
+			(at 154.94 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14074,7 +14166,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 148.844 115.57 0)
+			(at 154.94 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14099,7 +14191,7 @@
 	)
 	(symbol
 		(lib_id "MX_Alps_Hybrid:MX-NoLED")
-		(at 163.83 109.22 0)
+		(at 175.26 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14107,7 +14199,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000066d41ad9")
 		(property "Reference" "MX64"
-			(at 164.6428 103.5558 0)
+			(at 176.0728 103.5558 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -14115,7 +14207,7 @@
 			)
 		)
 		(property "Value" "MX-NoLED"
-			(at 164.6428 105.4354 0)
+			(at 176.0728 105.4354 0)
 			(effects
 				(font
 					(size 0.508 0.508)
@@ -14123,7 +14215,7 @@
 			)
 		)
 		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
-			(at 147.955 109.855 0)
+			(at 159.385 109.855 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -14132,7 +14224,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.955 109.855 0)
+			(at 159.385 109.855 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -14141,7 +14233,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 163.83 109.22 0)
+			(at 175.26 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14166,7 +14258,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 159.512 115.57 90)
+		(at 170.18 115.57 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14174,7 +14266,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000066d41ae0")
 		(property "Reference" "D64"
-			(at 161.2392 114.4016 90)
+			(at 171.9072 114.4016 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14183,7 +14275,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 161.2392 116.713 90)
+			(at 171.9072 116.713 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14192,7 +14284,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 159.512 115.57 90)
+			(at 170.18 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14201,7 +14293,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 159.512 115.57 90)
+			(at 170.18 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14210,7 +14302,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 159.512 115.57 0)
+			(at 170.18 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
