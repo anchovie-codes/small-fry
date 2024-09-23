@@ -14,10 +14,31 @@ rev. 1 prototype
 - 1x 2.75U keycap
 
 ## tools needed
+
 - **a heat gun + solder paste are highly recommended** for soldering the diodes, however they can be hand-soldered if you are patient and skilled.
 - soldering iron + solder  wire for soldering the switches and MCU.
 
 ## assembly notes
+
 - this PCB does not have holes for tray-mounting; it must be plate-mounted to a case.
-- switchplate .DXF file is included; recommended material is either metal or FR4. acrylic is viable but will add flex.
-- if you are making a sandwich case, the minimum required standoff height between a bottom plate and the switchplate is 8mm. any shorter will interfere with the switch fixing pins.
+- switchplate .DXF file is included; it should be ~1.5mm thick. recommended material is either metal or FR4. acrylic is technically viable but will add flex.
+
+### sandwich case notes
+
+some .DXF files are included for a rudimentary sandwich case. additional hardware needed:
+- 10x M3x8mm male-to-female standoffs (M3x10 will also work, just makes the height taller)
+- 10x M3x4mm screws
+- 10x M3x6x5mm heat-threaded inserts
+
+required thickness of each plate:
+- top plate: 1.5-3mm
+- mid plate: 3mm
+- buffer plate: 3mm
+- bottom plate: 1.5-3mm
+
+stacking order of plates is, from top to bottom:
+- top plate
+- mid plate
+- buffer plate
+- switch plate
+- bottom plate
