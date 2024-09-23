@@ -20,6 +20,7 @@ rev. 1 prototype
 
 ## assembly notes
 
+- diode direction is COL to ROW! this means the lines should face down (if you're using the diodes linked above).
 - this PCB does not have holes for tray-mounting; it must be plate-mounted to a case.
 - switchplate .DXF file is included; it should be ~1.5mm thick. recommended material is either metal or FR4. acrylic is technically viable but will add flex.
 
