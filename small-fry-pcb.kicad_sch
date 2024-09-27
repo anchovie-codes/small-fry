@@ -5646,7 +5646,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.25u"
 			(at 61.595 32.639 0)
 			(effects
 				(font
@@ -5782,7 +5782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.5u"
 			(at 72.517 32.639 0)
 			(effects
 				(font
@@ -5918,7 +5918,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 83.185 32.639 0)
 			(effects
 				(font
@@ -6054,7 +6054,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 94.107 32.639 0)
 			(effects
 				(font
@@ -6190,7 +6190,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 104.775 32.639 0)
 			(effects
 				(font
@@ -6326,7 +6326,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 115.697 32.639 0)
 			(effects
 				(font
@@ -6462,7 +6462,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 126.365 32.639 0)
 			(effects
 				(font
@@ -6598,7 +6598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 137.287 32.639 0)
 			(effects
 				(font
@@ -6734,7 +6734,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 148.209 32.639 0)
 			(effects
 				(font
@@ -6870,7 +6870,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 159.131 32.639 0)
 			(effects
 				(font
@@ -7006,7 +7006,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 169.799 32.639 0)
 			(effects
 				(font
@@ -7142,7 +7142,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 180.721 32.639 0)
 			(effects
 				(font
@@ -7278,7 +7278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 191.389 32.639 0)
 			(effects
 				(font
@@ -7414,7 +7414,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 202.311 32.639 0)
 			(effects
 				(font
@@ -7550,7 +7550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.5u"
 			(at 212.979 32.639 0)
 			(effects
 				(font
@@ -7686,7 +7686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.25u"
 			(at 61.849 51.181 0)
 			(effects
 				(font
@@ -7822,7 +7822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.5u"
 			(at 72.771 51.181 0)
 			(effects
 				(font
@@ -7958,7 +7958,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 83.439 51.181 0)
 			(effects
 				(font
@@ -8094,7 +8094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 94.361 51.181 0)
 			(effects
 				(font
@@ -8230,7 +8230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 105.029 51.181 0)
 			(effects
 				(font
@@ -8366,7 +8366,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 115.951 51.181 0)
 			(effects
 				(font
@@ -8502,7 +8502,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 126.619 51.181 0)
 			(effects
 				(font
@@ -8638,7 +8638,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 137.541 51.181 0)
 			(effects
 				(font
@@ -8774,7 +8774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 148.463 51.181 0)
 			(effects
 				(font
@@ -8910,7 +8910,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 159.385 51.181 0)
 			(effects
 				(font
@@ -9046,7 +9046,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 170.053 51.181 0)
 			(effects
 				(font
@@ -9182,7 +9182,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 180.975 51.181 0)
 			(effects
 				(font
@@ -9318,7 +9318,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 191.643 51.181 0)
 			(effects
 				(font
@@ -9454,7 +9454,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 202.565 51.181 0)
 			(effects
 				(font
@@ -9590,7 +9590,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.5u"
 			(at 213.233 51.181 0)
 			(effects
 				(font
@@ -9726,7 +9726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.25u"
 			(at 62.103 70.231 0)
 			(effects
 				(font
@@ -9862,7 +9862,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.5u"
 			(at 73.025 70.231 0)
 			(effects
 				(font
@@ -9998,7 +9998,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 83.693 70.231 0)
 			(effects
 				(font
@@ -10134,7 +10134,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 94.615 70.231 0)
 			(effects
 				(font
@@ -10270,7 +10270,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 105.283 70.231 0)
 			(effects
 				(font
@@ -10406,7 +10406,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 116.205 70.231 0)
 			(effects
 				(font
@@ -10542,7 +10542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 126.873 70.231 0)
 			(effects
 				(font
@@ -10678,7 +10678,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 137.795 70.231 0)
 			(effects
 				(font
@@ -10814,7 +10814,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 148.717 70.231 0)
 			(effects
 				(font
@@ -10950,7 +10950,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 159.639 70.231 0)
 			(effects
 				(font
@@ -11086,7 +11086,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 170.307 70.231 0)
 			(effects
 				(font
@@ -11222,7 +11222,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 181.229 70.231 0)
 			(effects
 				(font
@@ -11358,7 +11358,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 191.897 70.231 0)
 			(effects
 				(font
@@ -11494,7 +11494,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.5u"
 			(at 202.819 70.231 0)
 			(effects
 				(font
@@ -11630,7 +11630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.25u"
 			(at 62.611 89.535 0)
 			(effects
 				(font
@@ -11766,7 +11766,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.5u"
 			(at 73.533 89.535 0)
 			(effects
 				(font
@@ -11902,7 +11902,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 84.201 89.535 0)
 			(effects
 				(font
@@ -12038,7 +12038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 95.123 89.535 0)
 			(effects
 				(font
@@ -12174,7 +12174,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 105.791 89.535 0)
 			(effects
 				(font
@@ -12310,7 +12310,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 116.713 89.535 0)
 			(effects
 				(font
@@ -12446,7 +12446,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 127.381 89.535 0)
 			(effects
 				(font
@@ -12582,7 +12582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 138.303 89.535 0)
 			(effects
 				(font
@@ -12718,7 +12718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 149.225 89.535 0)
 			(effects
 				(font
@@ -12854,7 +12854,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 160.147 89.535 0)
 			(effects
 				(font
@@ -12990,7 +12990,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 170.815 89.535 0)
 			(effects
 				(font
@@ -13126,7 +13126,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 181.737 89.535 0)
 			(effects
 				(font
@@ -13262,7 +13262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.5u"
 			(at 192.405 89.535 0)
 			(effects
 				(font
@@ -13398,7 +13398,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.25U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.25u"
 			(at 63.627 108.077 0)
 			(effects
 				(font
@@ -13534,7 +13534,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1.5U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1.5u"
 			(at 74.549 108.077 0)
 			(effects
 				(font
@@ -13670,7 +13670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 85.217 108.077 0)
 			(effects
 				(font
@@ -13806,7 +13806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 96.647 109.855 0)
 			(effects
 				(font
@@ -13942,7 +13942,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-2.25U-ReversedStabilizers-NoLED"
+		(property "Footprint" "MX_Solderable:MX-Solderable-2.25U-ReversedStabilizers"
 			(at 107.315 109.855 0)
 			(effects
 				(font
@@ -14078,7 +14078,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-2.75U-ReversedStabilizers-NoLED"
+		(property "Footprint" "MX_Solderable:MX-Solderable-2.75U-ReversedStabilizers"
 			(at 144.145 109.855 0)
 			(effects
 				(font
@@ -14214,7 +14214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 159.385 109.855 0)
 			(effects
 				(font
@@ -14350,7 +14350,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 169.545 109.855 0)
 			(effects
 				(font
@@ -14486,7 +14486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 186.055 113.665 0)
 			(effects
 				(font
@@ -14622,7 +14622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 196.977 113.665 0)
 			(effects
 				(font
@@ -14758,7 +14758,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 207.645 113.665 0)
 			(effects
 				(font
@@ -14894,7 +14894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
+		(property "Footprint" "marbastlib-mx:SW_MX_1u"
 			(at 218.567 113.665 0)
 			(effects
 				(font
