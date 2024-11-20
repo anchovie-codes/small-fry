@@ -1,5 +1,6 @@
 # small-fry
 
+![silkscreen-noborder](https://github.com/user-attachments/assets/2304b4db-cfa4-4ba6-bacc-6cf6fbd948b6)
 rev. 1 prototype
 
 ## parts needed
